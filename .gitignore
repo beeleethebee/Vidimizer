@@ -1,0 +1,7 @@
+front/node_modules
+back/frame
+back/download/
+back/video
+back/static
+back/.env
+back/Content.zip
