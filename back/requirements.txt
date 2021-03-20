@@ -13,7 +13,7 @@ idna==2.9
 image==1.5.32
 isodate==0.6.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 msrest==0.6.15
 numpy==1.18.5
