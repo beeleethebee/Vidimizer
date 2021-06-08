@@ -19,7 +19,7 @@ msrest==0.6.15
 numpy==1.18.5
 oauthlib==3.1.0
 opencv-python==4.2.0.34
-Pillow==7.1.2
+Pillow==8.2.0
 python-dotenv==0.13.0
 pytz==2020.1
 requests==2.23.0
